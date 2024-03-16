@@ -1,5 +1,5 @@
 # Forkify - A Recipe Finding Web app 🥣🍴
-<h1 align="center"> <a href="https://recipeapp-forkify.netlify.app/">Live</a></h1>
+<h3 align="center"> <a href="https://recipeapp-forkify.netlify.app/">Live</a></h3>
 
 ## Description
 
